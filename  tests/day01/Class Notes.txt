@@ -1,0 +1,36 @@
+Playwright Automation Day01
+
+Topics:
+    Introduction to Playwright
+    Environment Setup
+    @playwright/test package
+    Fixtures
+    Working with browsers
+
+    AI for Automation productivity
+
+
+Benefits:
+    Fast Execution
+    Isolation
+    Auto waits/scrolls
+    Corss browser
+    E2E
+    Easier setup
+    ...
+
+
+
+Next Class:
+    Page Object methods
+    Locator Object Methods
+    Hooks Functions
+    More AI: AI Agents for locating elements
+
+
+Next Next Class:
+    Assertions Intro
+    Expect object methods
+    More AI
+
+    

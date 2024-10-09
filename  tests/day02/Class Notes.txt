@@ -1,0 +1,20 @@
+Playwright Automation Day02
+
+Topics:
+    Page Object Methods
+    Locator Object Methods
+    Hooks Functions
+    MORE AI
+    
+
+
+Next Class:
+    Playwright Assertions
+
+     Basic Authentication
+    Environment Variables
+
+    SEP Project Intro
+    
+    iframes
+    Alerts
